@@ -1,3 +1,4 @@
+--
 -- db2 -tvf p1_create.sql
 
 connect to cs157a;
